@@ -44,6 +44,7 @@ Licensed under the MIT license
     de conclusão, minimizando a chance da questão precisar ser formulada.
 11. O uso de anexos por e-mail deve ser minimizado, optando pelo uso do Portal, ALM, ou ferramenta 
     associada.
+12. O conteúdo da mensagem original deve ser mantido em sua íntegra e comentários devem ser inseridos apenas no corpo do e-mail de resposta. Nunca insira comentários na mensagem original. 
 
 ### 5.2.2. Despedida e Assinatura do E-mail
 
